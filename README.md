@@ -51,7 +51,7 @@ Price
 per unit	Units
 available	Units
 bought	Price *
-# units	Total cost	Notes
+ units	Total cost	Notes
 5	20	20	5*20	100
 9	40	0			Bought no milk from farmer 2
 3	10	10	3*10	30
@@ -59,6 +59,4 @@ bought	Price *
 6	30	30	6*30	180
 Total	180	100		630	Cheapest total cost
 
-Submit a solution:
- 	 
-Training Gateway  |   Comment or Question
+
